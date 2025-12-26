@@ -47,6 +47,7 @@ Each example includes the predicted class, confidence score, and sample video fr
 ### 🔹 Deepfake Video Prediction
 - **Predicted Class**: Fake  
 - **Confidence**: 90.18%
+![WhatsApp Image 2025-12-26 at 11 46 30 PM](https://github.com/user-attachments/assets/cb0d9a7a-a071-42e4-ba63-05605acdacd6)
 
 ![Deepfake Prediction](results/fake_prediction.png)
 
