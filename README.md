@@ -7,13 +7,6 @@ This project proposes a **hybrid deep learning model combining InceptionV3 and L
 
 ---
 
-## 🎓 Academic Information
-- **Program**: M.Sc Data Science  
-- **Project Type**: PG 1-Year SET Conference Project  
-- **Institution**: Vellore Institute of Technology (VIT), Vellore  
-
----
-
 ## 👨‍💻 Authors
 - **Yokesh VP**  
   School of Advanced Sciences, VIT Vellore  
