@@ -47,9 +47,8 @@ Each example includes the predicted class, confidence score, and sample video fr
 ### 🔹 Deepfake Video Prediction
 - **Predicted Class**: Fake  
 - **Confidence**: 90.18%
-![WhatsApp Image 2025-12-26 at 11 46 30 PM](https://github.com/user-attachments/assets/cb0d9a7a-a071-42e4-ba63-05605acdacd6)
 
-![Deepfake Prediction](results/fake_prediction.png)
+![WhatsApp Image 2025-12-26 at 11 46 50 PM](https://github.com/user-attachments/assets/3005599f-03db-4ddc-a97a-7b3457224d88)
 
 The model correctly identifies the manipulated video by detecting spatial artifacts and temporal inconsistencies across frames.
 
@@ -59,7 +58,7 @@ The model correctly identifies the manipulated video by detecting spatial artifa
 - **Predicted Class**: Real  
 - **Confidence**: 89.21%
 
-![Real Video Prediction](results/real_prediction.png)
+![WhatsApp Image 2025-12-26 at 11 46 30 PM](https://github.com/user-attachments/assets/cb0d9a7a-a071-42e4-ba63-05605acdacd6)
 
 The model correctly classifies the authentic video by learning consistent facial texture and natural temporal motion patterns.
 
